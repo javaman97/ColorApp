@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825728370985",
+    "project_id": "color-app---janitri",
+    "storage_bucket": "color-app---janitri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825728370985:android:aa60635ee7f2e3b7ff0f38",
+        "android_client_info": {
+          "package_name": "com.aman.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ySFXmje6fpoEOOHRV_BZmgsvvsTZANg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
