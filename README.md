@@ -1,4 +1,5 @@
-# ColorCode App
+# ColorCode App 
+## Video Demo - Check out the video demo of the ColorCode app:[https://drive.google.com/file/d/1Bhr9mj_7F4Z89CMMB82J3Wen0tEi2p_H/view?usp=sharing]
 
 **ColorCode** is an Android application developed using Jetpack Compose and follows the MVVM architecture. The app allows users to manage and display color entries, both locally and remotely using Firebase. It also includes functionality for syncing data between the local database and Firebase.
 
